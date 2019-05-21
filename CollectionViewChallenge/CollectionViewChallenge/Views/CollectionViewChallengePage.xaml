@@ -26,7 +26,7 @@
                             <Frame BackgroundColor="#6234AD" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
                                    Padding="0" WidthRequest="120" HeightRequest="155"
                                    CornerRadius="25" HasShadow="true" >
-                                <Label Text="Welcome" />
+                                <Label Text="Welcome 1" />
                                 <Grid Padding="0,5,0,5" RowSpacing="0">
                                     <Grid.ColumnDefinitions >
                                         <ColumnDefinition Width="*" />
