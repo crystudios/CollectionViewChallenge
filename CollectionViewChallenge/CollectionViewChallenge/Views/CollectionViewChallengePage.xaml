@@ -43,7 +43,7 @@
                                            HeightRequest="40" FontFamily="forced_square.ttf#FORCED SQUARE-Medium"
                                            VerticalTextAlignment="Center" TextColor="White" FontSize="14"/>
                                     
-                                    <Image Grid.Row="1" Source="{Binding Source}" HorizontalOptions="FillAndExpand"
+                                    <Image x:Name="ImageListed" Grid.Row="1" Source="{Binding Source}" HorizontalOptions="FillAndExpand"
                                            WidthRequest="110" VerticalOptions="Center"
                                            Grid.Column="0" Grid.ColumnSpan="2">
                                         <Image.GestureRecognizers>
